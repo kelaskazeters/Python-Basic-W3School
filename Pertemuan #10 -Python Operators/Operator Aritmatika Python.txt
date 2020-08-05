@@ -1,0 +1,9 @@
+
+Operator	Nama			Contoh
++		Penjumlahan		x + y	
+-		Pengurangan		x - y	
+*		Perkalian		x * y	
+/		Pembagian		x / y	
+%		Modulus			x % y	
+**		Pangkat			x ** y	
+//		Pembagian Pembulatan	x // y
